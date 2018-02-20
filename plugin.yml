@@ -1,0 +1,8 @@
+name: UHCmanager
+main: PocketDevs\Main
+api: [2.0.0, 2.1.0, 3.0.0]
+version: 1.0.1
+author: xJuqnPvP, lalitopvp, TheBluePixel7u7
+commands:
+ uhc:
+  description: UHC base command
